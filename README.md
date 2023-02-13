@@ -1,5 +1,7 @@
 # SalesInsight-AtilQ
 
+![dash](https://user-images.githubusercontent.com/92994762/218537352-34983f52-e46f-477f-9b67-e7f6884682d4.jpg)
+
 
 1. Show all customer records
 
